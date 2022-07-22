@@ -13,7 +13,7 @@ cd sms-bomber-iliacode
 
 python3 sms-bomber.py
 
-#Linux:
+# Linux:
 
 apt-get update
 
